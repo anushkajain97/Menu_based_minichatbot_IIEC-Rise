@@ -40,6 +40,12 @@ Path can be set in different ways for different operating systems.
 7) Click on OK and your program is ready to execute directly from cmd.
    ![](/images/step-7.png)
 
+
+### To execute the assistance -
+1) Download the file
+2) Install python-3 
+3) Run the command in cmd : python SystemAssistanceChatbot.py
+
 ### **References -**
 1) https://www.youtube.com/watch?v=2PjfpSgtuE8&t
 2) https://www.youtube.com/watch?v=ElOJReuu60g&t
