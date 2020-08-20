@@ -41,6 +41,6 @@ Path can be set in different ways for different operating systems.
    ![](/images/step-7.png)
 
 ### **References -**
-1) https://www.youtube.com/watch?v=2PjfpSgtuE8&t=4s
-2) https://www.youtube.com/watch?v=ElOJReuu60g&t=10s
+1) https://www.youtube.com/watch?v=2PjfpSgtuE8&t
+2) https://www.youtube.com/watch?v=ElOJReuu60g&t
 3) https://www.w3schools.com/python/python_datetime.asp
